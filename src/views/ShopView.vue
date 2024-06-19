@@ -1,6 +1,6 @@
 <template lang="">
     <div>
-        Home
+        Shop
     </div>
 </template>
 <script>

@@ -1,6 +1,6 @@
 <template lang="">
     <div>
-        Home
+        Checkout
     </div>
 </template>
 <script>
